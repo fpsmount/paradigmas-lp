@@ -29,4 +29,4 @@ Este repositório contém os códigos e materiais desenvolvidos para a disciplin
 *Para executar os projetos:*
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/](https://github.com/)[seu-usuario]/[nome-do-repositorio].git![image](https://github.com/user-attachments/assets/ff5eec7b-87c7-4d75-91ac-d803f8d6d0bb)
+   git clone https://github.com/fpsmount/paradigmas-lp.git
