@@ -8,6 +8,9 @@
 *Aluno(a):* Gabrielly da Silva Oliveira
 *Matrícula:* 30511640
 
+*Aluno(a):* Augusto Liberato Marques Ferreira 
+*Matrícula:* 30238722
+
 ## Descrição do Projeto
 
 Este repositório contém os códigos e materiais desenvolvidos para a disciplina de Paradigmas de Linguagens de Programação, cursada no [Semestre] de [Ano] no UDF. 
