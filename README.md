@@ -1,4 +1,4 @@
-**Paradigmas de Linguagens de Programação - UDF**
+# Paradigmas de Linguagens de Programação - UDF 
 
 ### **Professora:** Kadidja Valéria
 
