@@ -5,7 +5,8 @@
 ### **Alunos:**
 - **Dimitri Rocha Monteiro** - Matrícula: 29601380  
 - **Gabrielly da Silva Oliveira** - Matrícula: 30511640  
-- **Augusto Liberato Marques Ferreira** - Matrícula: 30238722  
+- **Augusto Liberato Marques Ferreira** - Matrícula: 30238722
+- **Júlio César Teixeira Cassiano** - Matrícula: 32156308
 
 ---
 
