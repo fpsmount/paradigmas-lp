@@ -1,4 +1,4 @@
-# **Paradigmas de Linguagens de Programação - UDF**
+![image](https://github.com/user-attachments/assets/ac1633f3-d030-46c5-8864-07b16b28be83)# **Paradigmas de Linguagens de Programação - UDF**
 
 ### **Professora:** Kadidja Valéria
 
@@ -7,6 +7,7 @@
 - **Gabrielly da Silva Oliveira** - Matrícula: 30511640  
 - **Augusto Liberato Marques Ferreira** - Matrícula: 30238722
 - **Júlio César Teixeira Cassiano** - Matrícula: 32156308
+- **Saulo José da Silva Oliveira** - Matricula: 30372607
 
 ---
 
