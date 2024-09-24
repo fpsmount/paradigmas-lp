@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ac1633f3-d030-46c5-8864-07b16b28be83)# **Paradigmas de Linguagens de Programação - UDF**
+**Paradigmas de Linguagens de Programação - UDF**
 
 ### **Professora:** Kadidja Valéria
 
