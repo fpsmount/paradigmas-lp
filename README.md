@@ -27,11 +27,13 @@ Este repositório contém os códigos e materiais desenvolvidos durante a discip
 ### **Conteúdo:**
 
 #### **1. Paradigma Procedural**  
-O paradigma procedural organiza o código em funções e segue uma execução sequencial. Ele usa **modularidade**, **variáveis globais e locais**, e **estruturas de controle** como loops e condicionais. Na apresentação, a linguagem **C** foi o foco, por sua eficiência e controle, exemplificando bem essa abordagem.  
+Programação procedural ou programação procedimental é um paradigma de programação que se baseia em procedimentos, que são executados numa sequência. Ela é derivada da programação imperativa, mas acrescentando procedimentos (em inglês, procedure calls), de forma a organizar o código em blocos que possam ser reutilizados. 
+link https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_procedural  
 **[Arquivos relevantes]**
 
 #### **2. Paradigma Orientado a Objetos**  
-O paradigma orientado a objetos organiza o código em **classes** e **objetos**, com foco na reutilização e modularidade. Ele utiliza os conceitos de **encapsulamento**, **herança**, **polimorfismo** e **abstração**. O destaque foi para **Java**, que oferece uma sintaxe clara e forte suporte para esse paradigma, facilitando a criação de sistemas robustos e manuteníveis.  
+Programação Orientada a Objeto (também conhecida pela sua sigla POO) ou Modelagem Orientada ao Objeto, é um modelo/paradigma de projeto e programação de software baseado na abstração digital do mundo real, através da composição e interação entre diversas unidades chamadas de 'objetos' e as classes (representando objetos reais contendo identidade, propriedades e, métodos) baseado em quatro principais componentes da programação: abstração digital, encapsulamento, herança e, polimorfismo.
+link https://pt.wikipedia.org/wiki/Orienta%C3%A7%C3%A3o_a_objetos
 **[Arquivos relevantes]**
 
 ---
