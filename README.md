@@ -14,7 +14,7 @@
 ### **Data das apresentações:**
 - **Paradigma Procedural** - 09/09/2024  
 - **Paradigma Orientado a Objeto** -  23/09/2024
-- **Paradigma Funcional** - 07/10/2024
+- **Paradigma Orientado a Eventos** - 07/10/2024
 - **Próximo Paradigma** - 21/10/2024
 - **Próximo Paradigma** - 04/11/2024 
 
