@@ -9,6 +9,15 @@
 
 ---
 
+### **Data das apresentações:**
+- **Paradigma Procedural** - 09/09/2024  
+- **Paradigma Orientado a Objeto** -  23/09/2024
+- **Paradigma Funcional** - 07/10/2024
+- **Próximo Paradigma** - 21/10/2024
+- **Próximo Paradigma** - 04/11/2024 
+
+---
+
 ## **Descrição do Projeto**
 
 Este repositório contém os códigos e materiais desenvolvidos durante a disciplina de **Paradigmas de Linguagens de Programação**, cursada no **5° e 6° Semestre de 2024** no **Centro Universitário do Distrito Federal - UDF**.
