@@ -15,6 +15,7 @@
 ### **Data da apresentação:**
 - **Paradigma Procedural** - 09/09/2024  
 
+Programação procedural ou programação procedimental é um paradigma de programação que se baseia em procedimentos, que são executados numa sequência. Ela é derivada da programação imperativa, mas acrescentando procedimentos (em inglês, procedure calls), de forma a organizar o código em blocos que possam ser reutilizados.
 ---
 
 
