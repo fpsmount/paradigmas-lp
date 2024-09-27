@@ -27,8 +27,8 @@ Este repositório contém os códigos e materiais desenvolvidos durante a discip
 ### **Conteúdo:**
 
 #### **1. Paradigma Procedural**  
-Programação procedural ou programação procedimental é um paradigma de programação que se baseia em procedimentos, que são executados numa sequência. Ela é derivada da programação imperativa, mas acrescentando procedimentos (em inglês, procedure calls), de forma a organizar o código em blocos que possam ser reutilizados. 
-[Saiba mais aqui](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_procedural)  
+Programação procedural ou programação procedimental é um paradigma de programação que se baseia em procedimentos, que são executados numa sequência. Ela é derivada da programação imperativa, mas acrescentando procedimentos (em inglês, procedure calls), de forma a organizar o código em blocos que possam ser reutilizados. [Para acessar os materiais da apresentação do Paradigma Procedural, clique aqui](./apresentacao-procedural/)
+[Clique aqui para acessar a WikiPedia do paradigma procedural](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_procedural)  
 
 **[Arquivos relevantes]**
 
