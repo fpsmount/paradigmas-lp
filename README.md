@@ -15,9 +15,9 @@
 - **Paradigma Procedural** - 09/09/2024  
 - **Paradigma Orientado a Objeto** -  23/09/2024
 - **Paradigma Orientado a Eventos** - 07/10/2024
-- **Próximo Paradigma** - 21/10/2024
-- **Próximo Paradigma** - 04/11/2024
-- **Próximo Paradigma** - 18/11/2024 
+- **Paradigma Funcional** - 21/10/2024
+- **Paradigma Funcional** - 04/11/2024
+- **Paradigma Programação Reativa** - 18/11/2024 
 
 ---
 
