@@ -29,7 +29,7 @@ Este repositório contém os códigos e materiais desenvolvidos durante a discip
 
 #### **1. Paradigma Procedural**  
 Programação procedural ou programação procedimental é um paradigma de programação que se baseia em procedimentos, que são executados numa sequência. Ela é derivada da programação imperativa, mas acrescentando procedimentos (em inglês, procedure calls), de forma a organizar o código em blocos que possam ser reutilizados.
-Para ter mais informações e documentos detalhados sobre a apresentação, [clique aqui](./apresentacao-procedural/)
+[Clique aqui para ter mais informações e documentos detalhados sobre a apresentação](./apresentacao-procedural/)
 
 - [Apresentação do Paradigma](https://github.com/user-attachments/files/17219298/ParadigmaProcedural-slides.pdf)
 - [Notebook Google Colab](./apresentacao-procedural/materiais-apresentacao/sintaxe_e_semantica_linguagem_c.ipynb)
@@ -41,7 +41,9 @@ Para ter mais informações e documentos detalhados sobre a apresentação, [cli
 #### **2. Paradigma Orientado a Objetos**  
 Programação Orientada a Objeto (também conhecida pela sua sigla POO) ou Modelagem Orientada ao Objeto, é um modelo/paradigma de projeto e programação de software baseado na abstração digital do mundo real, através da composição e interação entre diversas unidades chamadas de 'objetos' e as classes (representando objetos reais contendo identidade, propriedades e, métodos) baseado em quatro principais componentes da programação: abstração digital, encapsulamento, herança e, polimorfismo.
 
-**[Arquivos relevantes]**
+- [Apresentação do Paradigma](https://view.genially.com/66e5fb5a7e0c552e898dce1f/personal-branding-seminario-java)
+- [Repositório para a representação do Campo Minado](https://github.com/cod3rcursos/curso-java/tree/master/campo-minado)
+- [Notebook Google Colab](https://colab.research.google.com/drive/1CWWlhQQnj__G8qKkzpxOv37N0-8O3kMQ?usp=sharing)
 
 [Saiba mais sobre Paradigma Orientado a Objetos aqui](https://pt.wikipedia.org/wiki/Orienta%C3%A7%C3%A3o_a_objetos)
 
