@@ -17,6 +17,7 @@
 - **Paradigma Orientado a Eventos** - 07/10/2024
 - **Paradigma Funcional** - 21/10/2024
 - **Paradigma Funcional** - 04/11/2024
+- **Paradigma Lógico** - 04/11/2024
 - **Paradigma Programação Reativa** - 18/11/2024 
 
 ---
