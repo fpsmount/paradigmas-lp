@@ -28,18 +28,22 @@ Este repositório contém os códigos e materiais desenvolvidos durante a discip
 ### **Conteúdo:**
 
 #### **1. Paradigma Procedural**  
-Programação procedural ou programação procedimental é um paradigma de programação que se baseia em procedimentos, que são executados numa sequência. Ela é derivada da programação imperativa, mas acrescentando procedimentos (em inglês, procedure calls), de forma a organizar o código em blocos que possam ser reutilizados. Para acessar os materiais da apresentação do Paradigma Procedural, [clique aqui](./apresentacao-procedural/)
+Programação procedural ou programação procedimental é um paradigma de programação que se baseia em procedimentos, que são executados numa sequência. Ela é derivada da programação imperativa, mas acrescentando procedimentos (em inglês, procedure calls), de forma a organizar o código em blocos que possam ser reutilizados.
+Para ter mais informações e documentos detalhados sobre a apresentação, [clique aqui](./apresentacao-procedural/)
+
+- [Apresentação do Paradigma](https://github.com/user-attachments/files/17219298/ParadigmaProcedural-slides.pdf)
+- [Notebook Google Colab](./apresentacao-procedural/materiais-apresentacao/sintaxe_e_semantica_linguagem_c.ipynb)
+
+[Saiba mais sobre Paradigma Procedural aqui](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_procedural)  
 
 
-Para acessar a WikiPedia do paradigma procedural, [clique aqui](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_procedural)  
-
-**[Arquivos relevantes]**
 
 #### **2. Paradigma Orientado a Objetos**  
 Programação Orientada a Objeto (também conhecida pela sua sigla POO) ou Modelagem Orientada ao Objeto, é um modelo/paradigma de projeto e programação de software baseado na abstração digital do mundo real, através da composição e interação entre diversas unidades chamadas de 'objetos' e as classes (representando objetos reais contendo identidade, propriedades e, métodos) baseado em quatro principais componentes da programação: abstração digital, encapsulamento, herança e, polimorfismo.
-[Saiba mais aqui](https://pt.wikipedia.org/wiki/Orienta%C3%A7%C3%A3o_a_objetos)
 
 **[Arquivos relevantes]**
+
+[Saiba mais sobre Paradigma Orientado a Objetos aqui](https://pt.wikipedia.org/wiki/Orienta%C3%A7%C3%A3o_a_objetos)
 
 ---
 
