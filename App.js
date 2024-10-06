@@ -1,37 +1,30 @@
-let slideIndex = 0;
-showSlides();
+let currentSlideIndex = 0;
 
-function showSlides() {
-  let slides = document.querySelectorAll(
-    ".slideshow-container:not([style*='display: none']) .slide"
-  );
-  let dots = document.getElementsByClassName("dot");
+function changeSlide(groupId) {
+  const groups = document.querySelectorAll(".slides");
+  groups.forEach((group) => (group.style.display = "none")); // Esconde todos os grupos
+  document.getElementById(groupId).style.display = "block"; // Mostra o grupo selecionado
+  currentSlideIndex = 0; // Reinicia o índice do slide
+  updateSlides(groupId);
+}
+
+function nextSlide(groupId) {
+  const group = document.getElementById(groupId);
+  const slides = group.getElementsByTagName("img");
+  currentSlideIndex = (currentSlideIndex + 1) % slides.length; // Cicla entre os slides
+  updateSlides(groupId);
+}
+
+function updateSlides(groupId) {
+  const group = document.getElementById(groupId);
+  const slides = group.getElementsByTagName("img");
   for (let i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";
+    slides[i].style.display = i === currentSlideIndex ? "block" : "none"; // Mostra apenas o slide atual
   }
-  slideIndex++;
-  if (slideIndex > slides.length) {
-    slideIndex = 1;
-  }
-  for (let i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex - 1].style.display = "block";
-  dots[slideIndex - 1].className += " active";
-  setTimeout(showSlides, 2000); // Muda a imagem a cada 2 segundos
 }
-
-function currentSlide(n) {
-  slideIndex = n;
-  showSlides();
-}
-
-function showGroup(groupNumber) {
-  let groups = document.getElementsByClassName("slideshow-container");
-  for (let i = 0; i < groups.length; i++) {
-    groups[i].style.display = "none";
-  }
-  document.getElementById("group" + groupNumber).style.display = "block";
-  slideIndex = 0;
-  showSlides();
+function prevSlide(groupId) {
+  const group = document.getElementById(groupId);
+  const slides = group.getElementsByTagName("img");
+  currentSlideIndex = (currentSlideIndex - 1 + slides.length) % slides.length; // Cicla para o slide anterior
+  updateSlides(groupId);
 }

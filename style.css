@@ -1,91 +1,83 @@
 body {
-  font-family: "Arial", sans-serif;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
   margin: 0;
-  background: #f3f3f3;
 }
 
-.button-container {
+.slide-container {
   text-align: center;
-  margin: 20px;
 }
 
-button {
-  padding: 10px 20px;
-  margin: 5px;
-  font-size: 16px;
-  cursor: pointer;
+.slides img {
+  width: 100%;
+  max-width: 800px; /* Aumente o tamanho máximo da imagem */
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.controls {
+  margin-top: 20px;
+}
+
+.btn {
   border: none;
+  color: white;
+  padding: 10px 15px;
+  margin: 5px;
+  cursor: pointer;
   border-radius: 5px;
-  background-color: #0f1449;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+
+.btn-next {
+  margin-top: 10px;
+  background-color: #042950; /* Cor padrão para o botão de próximo */
+  color: white;
+}
+.btn-prev {
+  margin-right: 10px; /* Espaço entre os botões */
+  background-color: #ff33a1; /* Cor para o botão "Anterior" */
   color: white;
 }
 
-button:hover {
-  background-color: #0dbae1;
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url("udf.jpeg"); /* Substitua pelo caminho da sua imagem de fundo */
+  background-size: cover; /* Cobre toda a área */
+  background-position: center; /* Centraliza a imagem */
 }
 
-.slideshow-container {
-  position: relative;
-  max-width: 1000px;
-  margin: auto;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  border-radius: 10px;
-  overflow: hidden;
-}
-
-.slide {
-  display: none;
-  position: relative;
-}
-
-img {
-  width: 100%;
-  height: auto;
-  border-radius: 10px;
-}
-
-.caption {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-  color: #f2f2f2;
-  font-size: 24px;
-  padding: 8px 12px;
-  background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 5px;
-}
-
-.fade {
-  animation: fade 1.5s;
-}
-
-@keyframes fade {
-  from {
-    opacity: 0.4;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
-.dots {
+.slide-container {
   text-align: center;
+  background-color: rgba(
+    34,
+    127,
+    184,
+    0.256
+  ); /* Fundo semitransparente para melhorar a legibilidade */
   padding: 20px;
-  background: #ddd;
-  border-radius: 0 0 10px 10px;
+  border-radius: 10px;
 }
+.slides iframe {
+  width: 200%;
+  max-width: 800px; /* Ajuste o tamanho máximo conforme necessário */
+  height: 600px; /* Ajuste a altura conforme necessário */
+  border: none; /* Remove a borda do iframe */
+  display: block;
 
-.dot {
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
-.dot:hover,
-.dot.active {
-  background-color: #717171;
+  margin-right: 500px;
 }

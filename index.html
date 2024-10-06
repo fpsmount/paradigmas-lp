@@ -7,46 +7,95 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="button-container">
-      <button onclick="showGroup(1)">Procedural</button>
-      <button onclick="showGroup(2)">Grupo 2</button>
-      <button onclick="showGroup(3)">Grupo 3</button>
-    </div>
-    <div class="slideshow-container" id="group1">
-      <div class="slide fade">
-        <img src="procedural/Slide2.JPG" alt="Slide 1" />
-        <div class="caption">Título do Slide 1</div>
+    <div class="slide-container">
+
+        <div class="slides" id="slideGroup1">
+            <img src="procedural/Slide2.JPG" alt="Slide 1">
+            <img src="procedural/Slide3.JPG" alt="Slide 2" style="display: none;">
+            <img src="procedural/Slide4.JPG" alt="Slide 3" style="display: none;">
+            <img src="procedural/Slide5.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide6.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide7.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide8.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide9.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide10.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide11.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide12.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide13.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide14.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide15.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide16.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide17.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide18.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide19.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide20.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide21.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide22.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide23.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide24.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide25.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide26.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide27.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide28.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide29.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide30.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide31.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide32.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide33.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide34.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide35.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide36.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide37.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide38.JPG"alt="Slide 4" style="display: none;" >
+            <img src="procedural/Slide39.JPG"alt="Slide 4" style="display: none;" >
+
+            <button class="btn-prev" onclick="prevSlide('slideGroup1')">Anterior</button>
+            <button class="btn-next" onclick="nextSlide('slideGroup1')">Próximo</button>
+        </div>
+      
+        <div class="slides" id="slideGroup2" style="display: none;">
+          
+          <iframe src="https://view.genially.com/66e5fb5a7e0c552e898dce1f" width="800" height="600" frameborder="0" allowfullscreen></iframe>
+          <button class="btn-prev" onclick="prevSlide('slideGroup1')">Anterior</button>
+          <button class="btn-next" onclick="nextSlide('slideGroup1')">Próximo</button>
       </div>
-      <div class="slide fade">
-        <img src="procedural/Slide3.JPG" alt="Slide 2" />
-        <div class="caption">Título do Slide 2</div>
+      
+
+    <div class="slides" id="slideGroup3" style="display: none;">
+        <img src="udf.jpeg" alt="Slide 4">
+        <img src="imagem5.jpg" alt="Slide 5" style="display: none;">
+        <img src="imagem6.jpg" alt="Slide 6" style="display: none;">
+        <button class="btn-prev" onclick="prevSlide('slideGroup2')">Anterior</button>
+        <button class="btn-next" onclick="nextSlide('slideGroup2')">Próximo</button>
+    </div>
+
+      </div>
+
+      <div class="controls">
+        <button
+          class="btn"
+          onclick="changeSlide('slideGroup1')"
+          style="background-color: #034d0d"
+        >
+          Procedural
+        </button>
+        <button
+          class="btn"
+          onclick="changeSlide('slideGroup2')"
+          style="background-color: #4d0101"
+        >
+          POO
+        </button>
+        <button
+          class="btn"
+          onclick="changeSlide('slideGroup3')"
+          style="background-color: #4d0101"
+        >
+          Grupo 3
+        </button>
       </div>
     </div>
 
-    <div class="slideshow-container" id="group2" style="display: none">
-      <div class="slide fade">
-        <img src="slide3.jpg" alt="Slide 3" />
-        <div class="caption">Título do Slide 3</div>
-      </div>
-      <div class="slide fade">
-        <img src="slide4.jpg" alt="Slide 4" />
-        <div class="caption">Título do Slide 4</div>
-      </div>
-    </div>
-    <div class="slideshow-container" id="group3" style="display: none">
-      <div class="slide fade">
-        <img src="slide5.jpg" alt="Slide 5" />
-        <div class="caption">Título do Slide 5</div>
-      </div>
-      <div class="slide fade">
-        <img src="slide6.jpg" alt="Slide 6" />
-        <div class="caption">Título do Slide 6</div>
-      </div>
-    </div>
-    <div class="dots">
-      <span class="dot" onclick="currentSlide(1)"></span>
-      <span class="dot" onclick="currentSlide(2)"></span>
-    </div>
     <script src="App.js"></script>
   </body>
 </html>
