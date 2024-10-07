@@ -18,7 +18,7 @@
 - **Paradigma Funcional** - 21/10/2024
 - **Paradigma Funcional** - 04/11/2024
 - **Paradigma Lógico** - 18/11/2024
-- **Paradigma Programação Reativa** - 02/12/2024 
+- **Paradigma Programação Reativa** - 19/11/2024 
 
 ---
 
