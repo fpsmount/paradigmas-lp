@@ -56,7 +56,7 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-image: url("udf.jpeg"); /* Substitua pelo caminho da sua imagem de fundo */
+  background-image: url("udf.jpeg"); /* imagem de fundo */
   background-size: cover; /* Cobre toda a área */
   background-position: center; /* Centraliza a imagem */
 }
