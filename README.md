@@ -12,13 +12,13 @@
 ---
 
 ### **Data das apresentações:**
-- **Paradigma Procedural** - 09/09/2024  
-- **Paradigma Orientado a Objeto** -  23/09/2024
-- **Paradigma Orientado a Eventos** - 07/10/2024
+- **Paradigma Procedural** (GRUPO VERDE) - 09/09/2024  
+- **Paradigma Orientado a Objeto** (GRUPO VERMELHO) -  23/09/2024
+- **Paradigma Orientado a Eventos** (GRUPO ROSA ESCURO) - 07/10/2024
 - **Paradigma Funcional** (GRUPO AZUL) - 21/10/2024
 - **Paradigma Funcional** (GRUPO PRETO) - 04/11/2024
-- **Paradigma Lógico** - 18/11/2024
-- **Paradigma Programação Reativa** - 19/11/2024 
+- **Paradigma Lógico** (GRUPO AMARELO) - 18/11/2024
+- **Paradigma Programação Reativa** (GRUPO LARANJA) - 19/11/2024 
 
 ---
 
