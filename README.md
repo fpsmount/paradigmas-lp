@@ -15,8 +15,8 @@
 - **Paradigma Procedural** - 09/09/2024  
 - **Paradigma Orientado a Objeto** -  23/09/2024
 - **Paradigma Orientado a Eventos** - 07/10/2024
-- **Paradigma Funcional** - 21/10/2024
-- **Paradigma Funcional** - 04/11/2024
+- **Paradigma Funcional** (GRUPO AZUL) - 21/10/2024
+- **Paradigma Funcional** (GRUPO PRETO) - 04/11/2024
 - **Paradigma Lógico** - 18/11/2024
 - **Paradigma Programação Reativa** - 19/11/2024 
 
