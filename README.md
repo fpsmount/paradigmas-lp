@@ -51,7 +51,8 @@ Programação Orientada a Objeto (também conhecida pela sua sigla POO) ou Model
 
 - **Linguagens de Programação**:
   - Java
-  - C++
+  - C
+  - C#
 - **Ferramentas Necessárias**:
   - IDE **Eclipse**
   - Google **Colab**
