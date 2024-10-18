@@ -1,0 +1,9 @@
+[submodule "orientacao-a-objetos"]
+	path = orientacao-a-objetos
+	url = https://github.com/fpsmount/PROJETO-PARADGMAS---POO
+[submodule "orientado-a-eventos-c#"]
+	path = "orientado-a-eventos-c#"
+	url = https://github.com/fpsmount/POE-e-Csharp
+[submodule "paradigma-procedural"]
+	path = paradigma-procedural
+	url = https://github.com/fpsmount/paradigma-procedural-PLP
