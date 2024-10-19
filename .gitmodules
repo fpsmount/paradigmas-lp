@@ -7,3 +7,6 @@
 [submodule "paradigma-procedural"]
 	path = paradigma-procedural
 	url = https://github.com/fpsmount/paradigma-procedural-PLP
+[submodule "paradigma-funcional"]
+	path = paradigma-funcional
+	url = https://github.com/fpsmount/Paradigma_Funcional
