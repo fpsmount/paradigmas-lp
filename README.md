@@ -16,7 +16,7 @@
 - **Paradigma Orientado a Objeto** (GRUPO VERMELHO) -  23/09/2024
 - **Paradigma Orientado a Eventos** (GRUPO ROSA ESCURO) - 07/10/2024
 - **Paradigma Funcional** (GRUPO AZUL) - 21/10/2024
-- **Paradigma Funcional** (GRUPO PRETO) - 04/11/2024
+- **Paradigma Funcional** (GRUPO PRETO) - 11/11/2024
 - **Paradigma Quântico** (GRUPO ROSA CLARO) - 11/11/2024
 - **Paradigma Lógico** (GRUPO AMARELO) - 18/11/2024
 - **Paradigma Programação Reativa** (GRUPO LARANJA) - 19/11/2024 
