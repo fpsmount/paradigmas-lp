@@ -7,9 +7,6 @@
 [submodule "paradigma-procedural"]
 	path = paradigma-procedural
 	url = https://github.com/fpsmount/paradigma-procedural-PLP
-[submodule "paradigma-funcional"]
-	path = paradigma-funcional
-	url = https://github.com/fpsmount/Paradigma_Funcional
 [submodule "funcional-haskell"]
 	path = funcional-haskell
 	url = https://github.com/jhenriquedsm/paradigma_funcional
