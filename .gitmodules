@@ -10,3 +10,6 @@
 [submodule "funcional-haskell"]
 	path = funcional-haskell
 	url = https://github.com/jhenriquedsm/paradigma_funcional
+[submodule "funcional-f#"]
+	path = "funcional-f#"
+	url = https://github.com/DEV-JVCQ/Paradigma_Funcional.git
