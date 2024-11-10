@@ -54,6 +54,12 @@ Programação Funcional é um paradigma que trata a computação como a avaliaç
 - [Repositório do Paradigma Funcional (Haskell)](https://github.com/jhenriquedsm/paradigma_funcional)
 - [Mais informações sobre Paradigma Funcional](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_funcional)
 
+#### **5. Paradigma Quântico**  
+Programação Quântica é um paradigma baseado nos princípios da mecânica quântica, utilizando qubits que podem representar 0 e 1 simultaneamente, o que permite uma execução paralela e mais eficiente para certos problemas. Conceitos como superposição e emaranhamento são fundamentais para a manipulação de qubits. A linguagem **Q#**, da Microsoft, facilita o desenvolvimento de algoritmos quânticos com uma sintaxe moderna e familiar.
+
+- [Repositório do Paradigma Quântico (Q#)](https://github.com/fpsmount/paradigma-quantico)
+- [Mais informações sobre Paradigma Quântico](https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_qu%C3%A2ntica)
+
 ---
 
 ## **Instruções de Uso**
