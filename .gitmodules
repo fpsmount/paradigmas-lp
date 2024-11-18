@@ -22,3 +22,6 @@
 [submodule "orientado-a-eventos"]
 	path = orientado-a-eventos
 	url = https://github.com/fpsmount/paradigma_orientado_a_eventos
+[submodule "paradigma-logico"]
+	path = paradigma-logico
+	url = https://github.com/fpsmount/ProjetoDeParadigmaLogico
