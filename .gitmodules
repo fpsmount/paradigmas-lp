@@ -16,3 +16,6 @@
 [submodule "funcional-haskell"]
 	path = funcional-haskell
 	url = https://github.com/fpsmount/funcional-haskell
+[submodule "programacao-reativa"]
+	path = programacao-reativa
+	url = https://github.com/fpsmount/Programa-o-reativa
