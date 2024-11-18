@@ -19,3 +19,6 @@
 [submodule "programacao-reativa"]
 	path = programacao-reativa
 	url = https://github.com/fpsmount/Programa-o-reativa
+[submodule "orientado-a-eventos"]
+	path = orientado-a-eventos
+	url = https://github.com/fpsmount/paradigma_orientado_a_eventos
