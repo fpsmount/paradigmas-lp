@@ -51,7 +51,7 @@ Programação Orientada a Eventos é um paradigma de programação onde o fluxo 
 Programação Funcional é um paradigma que trata a computação como a avaliação de funções matemáticas e evita estados mutáveis e dados mutáveis. Em vez de modificar o estado ou objetos, funções puras são usadas para produzir novos valores a partir dos dados de entrada. Esse paradigma promove a imutabilidade, a recursividade e o uso de funções de ordem superior, tornando-o ideal para aplicações que exigem grande paralelismo e consistência. F# é uma das linguagens que adotam amplamente o paradigma funcional, proporcionando uma combinação poderosa de programação funcional com características imperativas e orientadas a objetos.
 
 - [Repositório do Paradigma Funcional (F#)](https://github.com/DEV-JVCQ/Paradigma_Funcional)
-- [Repositório do Paradigma Funcional (Haskell)](https://github.com/jhenriquedsm/paradigma_funcional)
+- [Repositório do Paradigma Funcional (Haskell)](https://github.com/fpsmount/funcional-haskell/tree/9cf52f048ad67bc6b3fe1febf10775300064a4a5)
 - [Mais informações sobre Paradigma Funcional](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_funcional)
 
 #### **5. Paradigma Quântico**  
