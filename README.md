@@ -19,7 +19,7 @@
 - **Paradigma Funcional** (GRUPO PRETO) - 04/11/2024
 - **Paradigma Quântico** (GRUPO ROSA CLARO) - 11/11/2024
 - **Paradigma Lógico** (GRUPO AMARELO) - 18/11/2024
-- **Paradigma Programação Reativa** (GRUPO LARANJA) - 19/11/2024 
+- **Paradigma Programação Reativa** (GRUPO LARANJA) - 18/11/2024 
 
 ---
 
