@@ -13,3 +13,6 @@
 [submodule "paradigma-quantico"]
 	path = paradigma-quantico
 	url = https://github.com/fpsmount/paradigma-quantico
+[submodule "funcional-haskell"]
+	path = funcional-haskell
+	url = https://github.com/fpsmount/funcional-haskell
