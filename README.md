@@ -44,7 +44,7 @@ Programação Orientada a Objeto (também conhecida pela sua sigla POO) ou Model
 #### **3. Paradigma Orientado a Eventos**  
 Programação Orientada a Eventos é um paradigma de programação onde o fluxo do programa é determinado por eventos, como ações do usuário (cliques de mouse, teclas pressionadas) ou mensagens de outros programas. Nesse modelo, os eventos acionam o código, que reage a essas interações através de manipuladores de eventos (event handlers). Esse paradigma é amplamente utilizado no desenvolvimento de interfaces gráficas de usuário (GUIs) e sistemas distribuídos.
 
-- [Repositório do Paradigma Orientado a Eventos (C#)](https://github.com/fpsmount/POE-e-Csharp/tree/d41ddc146e95df399eca312356cbcc2940444023)
+- [Repositório do Paradigma Orientado a Eventos (C#)](https://github.com/fpsmount/paradigma_orientado_a_eventos)
 - [Mais informações sobre Paradigma Orientado a Eventos](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_orientada_a_eventos)
 
 #### **4. Paradigma Funcional**  
