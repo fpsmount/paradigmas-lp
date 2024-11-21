@@ -14,40 +14,126 @@ body {
 
 .slides img {
   width: 100%;
-  max-width: 800px; /* Aumente o tamanho máximo da imagem */
+  max-width: 1140px; /* Aumente o tamanho máximo da imagem */
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+#slidesUDF {
+  width: 85%;
+  max-width: 1000px; /* Aumente o tamanho máximo da imagem */
   height: auto;
   display: block;
   margin: 0 auto;
 }
 
+
+/* .controls {
+  margin-top: 100px;
+  
+} */
 .controls {
-  margin-top: 20px;
+  position: fixed; /* Fixa a posição na tela */
+  top: 50%; /* Centraliza verticalmente */
+  right: 5px; /* Coloca no canto direito */
+  transform: translateY(-50%); /* Ajusta a centralização vertical */
+  display: flex;
+  flex-direction: column; /* Alinha os botões em coluna */
+  gap: 10px; /* Espaço entre os botões */
 }
+.controls2 {
+  position: fixed; /* Fixa a posição na tela */
+  top: 50%; /* Centraliza verticalmente */
+  left: 1px; /* Coloca no canto direito */
+  transform: translateY(-50%); /* Ajusta a centralização vertical */
+  display: flex;
+  flex-direction: column; /* Alinha os botões em coluna */
+  gap: 10px; /* Espaço entre os botões */
+  
+ 
+}
+.controls2 a {
+  text-decoration: none; /* Remove o sublinhado */
+  color: inherit; /* Herda a cor do botão */
+  display: block; /* Faz o link ocupar a área inteira do botão */
+  width: 100%; /* Garante que o link se expanda em largura */
+  height: 100%; /* Garante que o link se expanda em altura */
+}
+
+
+
 
 .btn {
   border: none;
-  color: white;
-  padding: 10px 15px;
-  margin: 5px;
+  color: rgb(0, 0, 0);
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+  padding: 15px 15px;
+  margin: 1px;
   cursor: pointer;
   border-radius: 5px;
-  transition: background-color 0.3s;
+  background-color: #62edff;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-.btn:hover {
-  opacity: 0.8;
+
+/* Estilos individuais */
+.btn-procedural{
+  background-color: rgb(39, 248, 16);
+  
+  
 }
+.btn-poo {
+  background-color: #f40000;
+}
+.btn-eventos {
+  background-color: #bc0187;
+}
+.btn-fsharp {
+  background-color: #3300ff;
+}
+.btn-haskell {
+  background-color: #000000;
+  color: #3300ff;
+}
+.btn-quantico {
+  background-color: #ff6cd0;
+}
+.btn-logico {
+  background-color: #fbe600;
+}
+.btn-reativo {
+  background-color: #fb4f00;
+}
+.btn:hover {
+  background-color:  #013165; /* Nova cor de fundo ao passar o mouse */
+  color: rgb(249, 249, 249); /* Nova cor do texto ao passar o mouse */
+}
+
 
 .btn-next {
   margin-top: 10px;
-  background-color: #042950; /* Cor padrão para o botão de próximo */
+  background-color: #013165; /* Cor padrão para o botão de próximo */
   color: white;
 }
 .btn-prev {
   margin-right: 10px; /* Espaço entre os botões */
-  background-color: #ff33a1; /* Cor para o botão "Anterior" */
-  color: white;
+  background-color: #62edff; /* Cor para o botão "Anterior" */
+  color: rgb(5, 4, 4);
 }
+.btn-next:hover {
+  background-color:  #62edff; /* Cor de destaque para o botão "Próximo" */
+  color: #000000; /* Cor do texto */
+}
+
+.btn-prev:hover {
+  background-color: #013165; /* Cor de destaque para o botão "Anterior" */
+  color: #fff; /* Cor do texto */
+}
+
+
+
+
 
 body {
   font-family: Arial, sans-serif;
@@ -69,15 +155,17 @@ body {
     184,
     0.256
   ); /* Fundo semitransparente para melhorar a legibilidade */
-  padding: 20px;
+  padding: 10px;
   border-radius: 10px;
 }
 .slides iframe {
-  width: 200%;
-  max-width: 800px; /* Ajuste o tamanho máximo conforme necessário */
-  height: 600px; /* Ajuste a altura conforme necessário */
+  width: 100%;
+  max-width: 1200px; /* Ajuste o tamanho máximo conforme necessário */
+  height: 670px; /* Ajuste a altura conforme necessário */
   border: none; /* Remove a borda do iframe */
   display: block;
 
-  margin-right: 500px;
+  margin-right: 960px;
 }
+
+
