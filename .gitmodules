@@ -25,3 +25,6 @@
 [submodule "paradigma-logico"]
 	path = paradigma-logico
 	url = https://github.com/fpsmount/ProjetoDeParadigmaLogico
+[submodule "paradigma-reativo"]
+	path = paradigma-reativo
+	url = https://github.com/fpsmount/Programa-o-reativa
