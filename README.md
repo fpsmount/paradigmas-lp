@@ -63,13 +63,13 @@ Programação Quântica é um paradigma baseado nos princípios da mecânica qu�
 #### **6. Paradigma Lógico**  
 Programação Lógica é um paradigma baseado no uso de lógica formal para expressar relações e resolver problemas. Nesse modelo, programas são definidos como um conjunto de fatos e regras, e a execução é realizada por meio de inferências lógicas. Esse paradigma é amplamente utilizado em áreas como inteligência artificial, análise de dados e linguística computacional, por sua capacidade de trabalhar com conhecimento simbólico e raciocínio dedutivo. A linguagem **Prolog** é uma das mais conhecidas para programação lógica, proporcionando uma abordagem declarativa e eficiente para resolver problemas complexos.
 
-- [Repositório do Paradigma Lógico (Prolog)](https://github.com/fpsmount/ProjetoDeParadigmaLogico)
+- [Repositório do Paradigma Lógico (Python)](https://github.com/fpsmount/ProjetoDeParadigmaLogico)
 - [Mais informações sobre Paradigma Lógico](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_l%C3%B3gica)
 
 #### **7. Paradigma Reativo**  
 Programação Reativa é um paradigma focado em fluxos de dados e na propagação de mudanças. Nesse modelo, as variáveis são observáveis, e as atualizações em seus valores são automaticamente propagadas para as partes interessadas do sistema. Ele é amplamente usado em aplicações assíncronas e interfaces de usuário, onde eventos, como cliques ou mudanças de dados, devem ser tratados de maneira eficiente. Bibliotecas como **RxJS** (JavaScript) e frameworks como **React** implementam conceitos reativos, permitindo a criação de sistemas responsivos e escaláveis.
 
-- [Repositório do Paradigma Reativo](https://github.com/fpsmount/Programa-o-reativa)
+- [Repositório do Paradigma Reativo (JavaScript)](https://github.com/fpsmount/Programa-o-reativa)
 - [Mais informações sobre Paradigma Reativo](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_reativa)
 
 ---
