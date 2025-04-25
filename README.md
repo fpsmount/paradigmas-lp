@@ -32,19 +32,19 @@ Este repositório contém os códigos e materiais desenvolvidos durante a discip
 #### **1. Paradigma Procedural**  
 Programação procedural ou programação procedimental é um paradigma de programação que se baseia em procedimentos, que são executados numa sequência. Ela é derivada da programação imperativa, mas acrescentando procedimentos (em inglês, procedure calls), de forma a organizar o código em blocos que possam ser reutilizados. 
 
-- [Repositório do Parigma Procedural (C)](https://github.com/fpsmount/paradigma-procedural-PLP/tree/fd1a9320099743c313315a3cb80e2d8cbb863802)
+- [Repositório do Parigma Procedural (C)](https://github.com/oBrunoz/paradigma-procedural-PLP)
 - [Mais informações sobre Paradigma Procedural](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_procedural)
 
 #### **2. Paradigma Orientado a Objetos**  
 Programação Orientada a Objeto (também conhecida pela sua sigla POO) ou Modelagem Orientada ao Objeto, é um modelo/paradigma de projeto e programação de software baseado na abstração digital do mundo real, através da composição e interação entre diversas unidades chamadas de 'objetos' e as classes (representando objetos reais contendo identidade, propriedades e, métodos) baseado em quatro principais componentes da programação: abstração digital, encapsulamento, herança e, polimorfismo. 
 
-- [Repositório do Paradigma Orientado a Objetos (Java)](https://github.com/fpsmount/PROJETO-PARADGMAS---POO/tree/1f507b853bf02584a38b2d299d956da1dfc1b239)
+- [Repositório do Paradigma Orientado a Objetos (Java)](https://github.com/Dantas2707/Projeto-paradigmas-POO)
 - [Mais informações sobre Paradigma Orientado a Objetos](https://pt.wikipedia.org/wiki/Orienta%C3%A7%C3%A3o_a_objetos)
 
 #### **3. Paradigma Orientado a Eventos**  
 Programação Orientada a Eventos é um paradigma de programação onde o fluxo do programa é determinado por eventos, como ações do usuário (cliques de mouse, teclas pressionadas) ou mensagens de outros programas. Nesse modelo, os eventos acionam o código, que reage a essas interações através de manipuladores de eventos (event handlers). Esse paradigma é amplamente utilizado no desenvolvimento de interfaces gráficas de usuário (GUIs) e sistemas distribuídos.
 
-- [Repositório do Paradigma Orientado a Eventos (C#)](https://github.com/fpsmount/paradigma_orientado_a_eventos)
+- [Repositório do Paradigma Orientado a Eventos (C#)](https://github.com/AndreRuperto/paradigma_orientado_a_eventos)
 - [Mais informações sobre Paradigma Orientado a Eventos](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_orientada_a_eventos)
 
 #### **4. Paradigma Funcional**  
@@ -63,13 +63,13 @@ Programação Quântica é um paradigma baseado nos princípios da mecânica qu�
 #### **6. Paradigma Lógico**  
 Programação Lógica é um paradigma baseado no uso de lógica formal para expressar relações e resolver problemas. Nesse modelo, programas são definidos como um conjunto de fatos e regras, e a execução é realizada por meio de inferências lógicas. Esse paradigma é amplamente utilizado em áreas como inteligência artificial, análise de dados e linguística computacional, por sua capacidade de trabalhar com conhecimento simbólico e raciocínio dedutivo. A linguagem **Prolog** é uma das mais conhecidas para programação lógica, proporcionando uma abordagem declarativa e eficiente para resolver problemas complexos.
 
-- [Repositório do Paradigma Lógico (Python)](https://github.com/fpsmount/ProjetoDeParadigmaLogico)
+- [Repositório do Paradigma Lógico (Python)](https://github.com/Davi140903/ProjetoDeParadigmaLogico)
 - [Mais informações sobre Paradigma Lógico](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_l%C3%B3gica)
 
 #### **7. Paradigma Reativo**  
 Programação Reativa é um paradigma focado em fluxos de dados e na propagação de mudanças. Nesse modelo, as variáveis são observáveis, e as atualizações em seus valores são automaticamente propagadas para as partes interessadas do sistema. Ele é amplamente usado em aplicações assíncronas e interfaces de usuário, onde eventos, como cliques ou mudanças de dados, devem ser tratados de maneira eficiente. Bibliotecas como **RxJS** (JavaScript) e frameworks como **React** implementam conceitos reativos, permitindo a criação de sistemas responsivos e escaláveis.
 
-- [Repositório do Paradigma Reativo (JavaScript)](https://github.com/fpsmount/Programa-o-reativa)
+- [Repositório do Paradigma Reativo (JavaScript)](https://github.com/YagosOliveira/Programa-o-reativa)
 - [Mais informações sobre Paradigma Reativo](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_reativa)
 
 ---
